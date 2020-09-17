@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Main Strated")
+	fmt.Println("Main Strated...")
 	app.StartApp()
 }
